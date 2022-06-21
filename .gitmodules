@@ -1,0 +1,8 @@
+[submodule "mateopcblog/publi"]
+	path = mateopcblog/publi
+	url = https://github.com/mateopc/mateopc.github.io.git
+	branch = main
+[submodule "mateopcblog/public"]
+	path = mateopcblog/public
+	url = https://github.com/mateopc/mateopc.github.io.git
+	branch = main
